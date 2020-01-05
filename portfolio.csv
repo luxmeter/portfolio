@@ -1,0 +1,10 @@
+Category,ISIN,Symbol,Name,Shares,Desired Distribution,Sort Order
+Large/Mid Cap Value,IE00BD1F4M44,IUVL.L,MSCI USA Value Factor,0,0.08666666667,2
+Large/Mid Cap Value,IE00BQN1K901,IEFV.L,MSCI Europe Value Factor,0,0.08666666667,3
+Large/Mid Cap Value,IE00B52MJY50,CSPXJ.SW,MSCI AC Far East ex-Japan,0,0.08666666667,4
+Small Cap Value,IE00B3VWM098,SXRG.F,MSCI USA Small Cap,0,0.08666666667,8
+Small Cap Value,LU0322253906,DX2J.F,MSCI Europe Small Cap,0,0.08666666667,9
+Small Cap Value,IE00B2QWDR12,IUS9.DU,MSCI AC Far East ex-Japan Small Cap,0,0.08666666667,6
+Emering Markets,IE00BKM4GZ66,EMIM.L,MSCI Emerging Markets,0,0.2,7
+Real Estate Investment Trust (REIT),IE00B1FZS350,ISPFF,Developed Markets Property Yield,0,0.08,5
+Short-term government bonds,LU0444605728,X501.DE,Liquid Sovereigns Diversified,0,0.2,1
